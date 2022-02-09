@@ -1,2 +1,2 @@
-const example=123456789;
-console.log(example);
+const e=123456789;
+console.log(e);
